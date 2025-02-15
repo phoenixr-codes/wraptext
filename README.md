@@ -1,4 +1,4 @@
-# wraptext: [textwrap][] Improvded.
+# wraptext: [textwrap][] Improved.
 
 This package is a drop-in replacement for the [textwrap][] module in Python's standard library. Unlike
 [textwrap][], `wraptext` correctly handles zero-width and full-wide Unicode characters as well as ANSI
