@@ -1,6 +1,6 @@
 [project]
 name = "wraptext"
-version = "1.0.0"
+version = "1.0.1"
 description = "Improved text wrapping and filling."
 authors = [{ name = "Jonas da Silva", email = "phoenixr41414141@gmail.com" }]
 readme = "README.md"
